@@ -1,3 +1,4 @@
+<h1>Documentation for the Cookie Consent plugin</h1>
 <p>Cookie Consent is a free JavaScript plugin for alerting users about the use of cookies on your website.<br>It is designed to help you quickly comply with the EU, GDPR and California cookie laws. We made it fast, free, and easy for everybody.</p>
 <br>
 
